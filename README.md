@@ -51,7 +51,7 @@
 Full-stack chat and calling app with direct and group messaging, media sharing, voice/video calls, and scheduled meetings.
 
 **Technologies:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, WebRTC, LiveKit, Cloudinary  
-**Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/Nexora) · [Live Demo](https://corp-talk-lake.vercel.app)
+**Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/Nexora) · [Live Demo](https://nexora-blond-zeta.vercel.app/)
 
 ### Maison Bistro
 
