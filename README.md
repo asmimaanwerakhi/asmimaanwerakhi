@@ -46,26 +46,26 @@
 
 ## 🚀 Featured Projects
 
-### CorpTalk
+### Nexora
 
 Full-stack chat and calling app with direct and group messaging, media sharing, voice/video calls, and scheduled meetings.
 
 **Technologies:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, WebRTC, LiveKit, Cloudinary  
-**Links:** [GitHub Repository](https://github.com/Sahadat-Hosen-Tuhin/CorpTalk) · [Live Demo](https://corp-talk-lake.vercel.app)
+**Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/Nexora) · [Live Demo](https://corp-talk-lake.vercel.app)
 
 ### Maison Bistro
 
 Restaurant management platform with role-based dashboards for menus, orders, reservations, billing, inventory, and staff workflows.
 
 **Technologies:** React, Vite, Tailwind CSS, Zustand, Node.js, Express.js, MongoDB, JWT  
-**Links:** [GitHub Repository](https://github.com/Sahadat-Hosen-Tuhin/maisonbistro) · [Live Demo](https://maisonbistro.vercel.app)
+**Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/maisonbistro) · [Live Demo](https://maisonbistro.vercel.app)
 
 ### S4 Style & Journeys
 
 Responsive storefront for discovering fashion products and curated travel, Hajj, and Umrah packages, with customer enquiries and a protected management dashboard.
 
 **Technologies:** React, React Router, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Cloudinary, JWT  
-**Links:** [GitHub Repository](https://github.com/Sahadat-Hosen-Tuhin/s4) · [Live Demo](https://s4-coral.vercel.app/)
+**Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/s4) · [Live Demo](https://s4-coral.vercel.app/)
 
 ---
 
