@@ -60,12 +60,12 @@ Restaurant management platform with role-based dashboards for menus, orders, res
 **Technologies:** React, Vite, Tailwind CSS, Zustand, Node.js, Express.js, MongoDB, JWT  
 **Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/maisonbistro) · [Live Demo](https://maisonbistro.vercel.app)
 
-### S4 Style & Journeys
+### Velora Ecom Platform
 
-Responsive storefront for discovering fashion products and curated travel, Hajj, and Umrah packages, with customer enquiries and a protected management dashboard.
+A modern fashion e-commerce platform for browsing curated collections, exploring products, and placing orders, featuring a responsive storefront and a secure admin dashboard for product, order, sales, and team management.
 
 **Technologies:** React, React Router, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Cloudinary, JWT  
-**Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/s4) · [Live Demo](https://s4-coral.vercel.app/)
+**Links:** [GitHub Repository](https://github.com/asmimaanwerakhi/velora) · [Live Demo](https://s4-coral.vercel.app/)
 
 ---
 
